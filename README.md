@@ -15,7 +15,7 @@
 - **JavaScript** – Adding interactivity  
 
 ## 🚀 Live Demo  
-🔗 **[Internie Website]([https://lnkd.in/gfJRrK2U](https://internie-60029029069.development.catalystserverless.in/app/index.html))**  
+🔗 **[Internie Website](https://internie-60029029069.development.catalystserverless.in/app/index.html)**  
 
 
 ## 💡 Future Enhancements  
